@@ -1,0 +1,13 @@
+Para efetuar commit
+git add .
+git status
+git commit -m 'comentario'
+git push
+
+Para criar branch
+git branch (verifica em qual branch está)
+git branch feature/nome_da_branch
+git checkout feature/nome_da_branch (para ir para a branch)
+git checkout main (para ir para a branch main)
+
+git push --set-upstream origin feature/trabalho1
