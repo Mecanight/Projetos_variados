@@ -1,7 +1,7 @@
 Para efetuar commit
 git add .
 git status
-git commit -m 'comentario'
+git commit -m 'preparar para enviar com comentario -m'
 git push
 
 Para criar branch
