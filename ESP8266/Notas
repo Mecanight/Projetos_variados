@@ -1,0 +1,2 @@
+Para atualizar o firmware do ESP8266 NodeMCU é necessário o gerenciador esptool.py executado pelo terminal
+Uma opção é atualizar pelo editor de códigos Thonny, que também utiliza o esptool.py mas em interface gráfica

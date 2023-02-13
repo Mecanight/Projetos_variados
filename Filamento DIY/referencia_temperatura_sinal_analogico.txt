@@ -1,0 +1,14 @@
+Tabela de sinal
+
+utilizando 3.3v e resistor referência de 2k Ohm
+
+260 c	993
+250 c	979
+240 c	962
+230 c	942
+220 c	920
+210 c	893
+200 c	864
+190 c	824
+180 c	785
+80 c	175
